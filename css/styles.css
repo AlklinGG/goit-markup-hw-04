@@ -222,6 +222,12 @@ gap: 24px;
 /*------------------------------------*/
 
 /*---------------section3---------------*/
+.social {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    
+}
 .sec-three {
     background-color: #F4F4FD;
     padding: 120px 0;
