@@ -241,13 +241,17 @@ gap: 24px;
     align-items: center;
     justify-content: center;
 }
-.link-insta:hover,
-.link-insta:focus {
+.links:hover,
+.links:focus {
     background-color: #404bbf;
 }
 
-.svg-insta {
+.svg-links {
     fill: #F4F4FD;
+}
+
+.insta, .twitter, .facebook, .linked {
+    transition: background-color 250ms cubic-bezier(0.4,0,0.2,1);
 }
 .sec-three {
     background-color: #F4F4FD;
