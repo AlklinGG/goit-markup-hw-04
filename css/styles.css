@@ -251,7 +251,7 @@ gap: 24px;
     fill: #F4F4FD;
 }
 
-.social-li {
+.social {
     transition: background-color 250ms cubic-bezier(0.4,0,0.2,1);
 }
 .sec-three {
