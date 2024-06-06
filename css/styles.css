@@ -182,7 +182,7 @@ align-items: center;
 /*------------------------------------*/
 
 /*---------------section2---------------*/
-.sec-two-antena, .sec-two-clock {
+.sec-two-antena, .sec-two-clock, .sec-two-comp {
     display: flex;
     align-items: center;
     justify-content: center;
