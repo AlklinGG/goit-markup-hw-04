@@ -382,6 +382,11 @@ padding: 32px 0;
 /*------------------------------------*/
 
 /*---------------FOOTER---------------*/
+.footer-container {
+    display: flex;
+    align-items: baseline;
+}
+
 .footer {
     background-color: #2e2f42;
     padding: 100px 0;
@@ -390,6 +395,7 @@ padding: 32px 0;
 .footer-div {
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
 }
 .container footer {
     margin-right: 120px;
